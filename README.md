@@ -32,7 +32,8 @@ This project focuses on analyzing employee data using Power BI to provide insigh
 - Microsoft Excel
 
 ## Project Structure
-- Data- 
+- Data- https://github.com/vaishnavishinde1234/Employee-Analytics-Dashboard-Power-BI/blob/main/Employee%20data.xlsx<br>
+- Dashboard- 
 
 ## Conclusion
 This dashboard provides a clear overview of workforce analytics, helping HR teams track employee trends, identify attrition patterns, and optimize hiring strategies.
